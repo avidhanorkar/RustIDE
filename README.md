@@ -45,6 +45,7 @@ The backend is powered by **Tokio + PostgreSQL**, providing a scalable and fast 
 ## Project Structure
 
 ### Backend Structure
+```
 ide-backend/
 ├─ Cargo.toml # Project dependencies & metadata
 ├─ .env # Environment variables (DB URL, secrets, etc.)
@@ -108,6 +109,6 @@ ide-backend/
 ├─ hashing.rs # password hashing (argon2/bcrypt wrappers)
 ├─ response.rs # standard API response helpers
 └─ logging.rs # tracing initialization
-
+```
 
 ---
