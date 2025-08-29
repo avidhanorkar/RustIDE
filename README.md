@@ -1,4 +1,4 @@
-# RustIDE
+# RustIDE - In Browser IDE
 
 An **in-browser IDE** built with **Rust (Axum)** for the backend and **React** for the frontend.  
 Supports **real-time code editing, execution, and collaboration**.  
